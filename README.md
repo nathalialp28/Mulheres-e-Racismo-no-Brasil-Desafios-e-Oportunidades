@@ -66,7 +66,7 @@ Essa etapa de limpeza e refinamento dos dados garante que o conjunto de dados fi
   2. Qual é a cor predominante na população que apresenta a maior taxa de maternidade precoce?
   3. Qual é a proporção de mulheres chefes de família com filhos menores de 15 anos, e como essa distribuição varia entre diferentes raças?
 
-
+**Dataviz:** Tableau https://public.tableau.com/views/Mulheres_Racismo_no_Brasil/Capa?:language=pt-BR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## 💻Tecnologias Utilizadas
 
